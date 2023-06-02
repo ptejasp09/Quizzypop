@@ -1,0 +1,29 @@
+.log_page{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+   
+    width: 70vh;
+    height: 80vh;
+    
+  
+    margin-left: 480px;
+    
+    align-items:center;
+    background-color: rgb(47, 227, 255);
+    
+    
+   
+}
+.b{
+    display: flex;
+    flex-wrap: wrap;
+   text-align: left;
+    background-image: url(question-mark.jpg);
+    
+}
+
+
+

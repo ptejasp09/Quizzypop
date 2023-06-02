@@ -1,0 +1,26 @@
+
+
+.div_page{
+    background-color: rgb(47, 227, 255);
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+   
+    width: 80vh;
+    height: 700px;
+    
+  
+    margin-left: 480px;
+    
+    align-items:center;
+
+}
+.body{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: left;
+      background-image: url(question-mark.jpg);
+      
+}
